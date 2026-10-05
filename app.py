@@ -1,6 +1,6 @@
 # Define the two numbers
 num1 = 5
-num2 = 10
+num2 = 100
 
 # Calculate the sum using the + operator
 result = num1 + num2
